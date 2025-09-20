@@ -23,7 +23,7 @@ Me chamo Renato Lucas, tenho 24 anos e sou natural de Pernambuco. Sou graduado e
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+<!--🤖 Linguagens e Tecnologias-->
 
 <img 
     align="left" 
@@ -117,7 +117,7 @@ Me chamo Renato Lucas, tenho 24 anos e sou natural de Pernambuco. Sou graduado e
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<!--📊 Estatísticas-->
 
 <p>
   <img 
@@ -136,3 +136,11 @@ Me chamo Renato Lucas, tenho 24 anos e sou natural de Pernambuco. Sou graduado e
   />
 
 </p>
+
+<div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RenatoLPA/RenatoLPA/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RenatoLPA/RenatoLPA/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RenatoLPA/RenatoLPA/output/github-contribution-grid-snake.svg">
+    </picture>
+</div>
