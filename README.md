@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Me chamo Renato Lucas, tenho 24 anos e sou natural de Pernambuco. Sou graduado em Ciência da Computação pela UNINASSAU. Apaixonado por tecnologia e frequentemente aprendendo algo novo. Trabalho na Bisa Sistemas contribuindo para a criação de interfaces eficientes e funcionais, focando na prototipação e implementação de telas que otimizam a experiência do usuário nos sistemas da empresa. Minha atuação é guiada pela aplicação de habilidades práticas em PHP, Laravel e frameworks relacionados.Também fiz cursos complementares, como Aplicações Web com Python pelo Senac Brasil e o FAP (Formação Acelerada em Programação).
+ Me chamo Renato Lucas, tenho 24 anos e sou natural de Pernambuco. Sou graduado em Ciência da Computação pela UNINASSAU. Apaixonado por tecnologia e frequentemente aprendendo algo novo. Trabalho na Bisa Sistemas contribuindo para a criação de interfaces eficientes e funcionais, focando na prototipação e implementação de telas que otimizam a experiência do usuário nos sistemas da empresa. Minha atuação é guiada pela aplicação de habilidades práticas em PHP, Laravel e frameworks relacionados.Também fiz cursos complementares, como Aplicações Web com Python pelo Senac Brasil e o FAP (Formação Acelerada em Programação).
+<br>
+ 🤖 Procurando por Jobs.
 
 <p align="left">
     <a href="https://github.com/RenatoLPA?tab=repositories&sort=stargazers">
