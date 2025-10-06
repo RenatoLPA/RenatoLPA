@@ -125,7 +125,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="160" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=renatolpa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=7200" 
   />
